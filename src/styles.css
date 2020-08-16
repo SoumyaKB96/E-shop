@@ -1,0 +1,17 @@
+.cell{
+    border-radius: 10px;
+    padding: 50px;
+    padding-top: 30px;
+    
+    
+   }
+
+ 
+
+.CatBox{
+    display: inline-flex;
+}
+
+.CatRow{
+    display:inline;
+}
